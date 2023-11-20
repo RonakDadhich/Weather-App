@@ -1,0 +1,2 @@
+# Weather-App
+JAVASCRIPT PROJECT
