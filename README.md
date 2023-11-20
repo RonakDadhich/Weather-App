@@ -1,2 +1,1 @@
-# Weather-App
-JAVASCRIPT PROJECT
+https://ronakdadhich.github.io/Weather-App/
